@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ProjekAufgaben/PA13/Ganzzahl.cpp
+Ganzzahl.h
+E:/ProjekAufgaben/PA13/Ganzzahl.h
+
+E:/ProjekAufgaben/PA13/Ganzzahl.h
+Natuerlich.h
+E:/ProjekAufgaben/PA13/Natuerlich.h
+iomanip
+-
+
+E:/ProjekAufgaben/PA13/Natuerlich.h
+iostream
+-
+string
+-
+
